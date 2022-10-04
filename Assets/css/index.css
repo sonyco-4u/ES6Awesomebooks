@@ -17,7 +17,7 @@ body {
 header {
   position: fixed;
   top: 0;
-  background-color: #26f50b;
+  background-color: #055c37;
   color: #fff;
   width: 100%;
   z-index: 1;
@@ -176,7 +176,7 @@ form input {
 footer {
   /* bottom: 0; */
   margin-top: -5rem;
-  background-color: #0cfa20;
+  background-color:  #055c37;
   color: #fff;
   width: 100%;
   justify-content: center;

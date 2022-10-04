@@ -1,6 +1,6 @@
 import Nav from '../../modules/Nav.js';
 import Books from '../../modules/Books.js';
-import { DateTime } from '../../modules/luxton.js';
+import { DateTime } from '../../modules/luxon.js';
 
 const awesomeBooks = new Books();
 const form = document.querySelector('#add-book');

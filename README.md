@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://mattgomb.github.io/awesome-books-ES6/)
+[Live Demo Link](https://sonyco-4u.github.io/ES6Awesomebooks/)
 
 ## Getting Started
 
